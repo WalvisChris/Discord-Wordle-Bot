@@ -1,5 +1,6 @@
 # Discord-Wordle-Bot
-learn how to make your own discord wordle bot
+learn how to make your own discord wordle bot  
+[![Watch the video](https://img.youtube.com/vi/Pp0hitWr8Aw/maxresdefault.jpg)](https://www.youtube.com/watch?v=Pp0hitWr8Aw)  
 
 # Instructions
 **Basics**
